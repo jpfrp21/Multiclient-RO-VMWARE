@@ -1,9 +1,9 @@
 # Multiclient-RO-VMWARE
 Multiclient using VMware Workstation Pro
 
-Step 1. Download VMware-workstation
+Step 1. Download VMware-workstation ---- https://support.broadcom.com/group/ecx/downloads
 
-Step 2. Download Windows 10 iso
+Step 2. Download Windows 10 iso ---- https://www.techworm.net/2022/08/download-windows-10-iso.html
 
 Step 2. Install VMware then once installation is completed run VMware Workstation app.
 
