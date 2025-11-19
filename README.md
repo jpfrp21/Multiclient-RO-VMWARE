@@ -40,5 +40,7 @@ Step 7. Copy paste the values below to your .vmx file.
         hgfs.mapRootShare = "TRUE"
 	
         hypervisor.cpuid.v0 = "FALSE"
+
+		touchscreen.vusb.present = "TRUE"
 	
 Step 8. Have Fun :)
